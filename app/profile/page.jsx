@@ -45,7 +45,7 @@ const ProfilePage = () => {
   return (
     <Profile 
         name="My"
-        desc="Welcome to your profile"
+        desc="Welcome to your profile. Create and share prompts with the community here."
         data={posts}
         handleEdit={handleEdit}
         handleDelete={handleDelete}
